@@ -1,6 +1,4 @@
-Here's a comprehensive `README.md` for the [Typer](https://github.com/Kartavyavg/Typer) repository—a Monkeytype-inspired typing speed test application.
 
----
 
 # Typer 🐒⌨️
 
